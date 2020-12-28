@@ -4,14 +4,12 @@ https://chenyitian.gitbooks.io/gin-tutorials/content/
 Application Functionality
 
 The application we'll build is a simple article manager. This application should:
-
-* Let users register with a username and a password (non-logged in users only)
-* Let users log in with a username and a password (non-logged in users only)
-* Let users log out (logged in users only)
-* Let users create new articles (logged in users only)
-* Display the list of all articles on the home page (for all users)
+* Let users register with a username and a password (non-logged in users only),
+* Let users log in with a username and a password (non-logged in users only),
+* Let users log out (logged in users only),
+* Let users create new articles (logged in users only),
+* Display the list of all articles on the home page (for all users), and
 * Display a single article on its own page (for all users)
-
 * In addition to this functionality, the list of articles and a single article should be accessible in the HTML, JSON and XML formats.
 
 
