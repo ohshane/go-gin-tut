@@ -1,0 +1,10 @@
+* flow
+
+   Request
+-> Route Parser
+-> [Optional Middleware]
+-> Route Handler
+-> [Optional Middleware]
+-> Response
+
+
