@@ -13,5 +13,7 @@ func main() {
 	// from the disk again. This makes serving HTML pages very fast.
 	router.LoadHTMLGlob("templates/*")
 
+	initializeRoutes()
+
 	router.Run()
 }
