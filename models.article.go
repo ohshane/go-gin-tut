@@ -24,6 +24,6 @@ var articleList = []article{
 	},
 }
 
-func getAllArticles() []article{} {
-	
+func getAllArticles() []article {
+	return []article{}
 }
