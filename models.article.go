@@ -25,5 +25,5 @@ var articleList = []article{
 }
 
 func getAllArticles() []article {
-	return []article{}
+	return articleList
 }
